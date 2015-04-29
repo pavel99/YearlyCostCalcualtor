@@ -1,0 +1,9 @@
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.exe.config
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.Form1.resources
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.Properties.Resources.resources
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.exe
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\bin\Debug\YearlyCostCalculator.pdb
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.exe
+E:\SEIP Training\HomePractice\YearlyCostCalculator\YearlyCostCalculator\obj\Debug\YearlyCostCalculator.pdb
